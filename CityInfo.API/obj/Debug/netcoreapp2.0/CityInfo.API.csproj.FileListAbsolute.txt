@@ -1,0 +1,11 @@
+c:\pluralsight demo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.deps.json
+c:\pluralsight demo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.json
+c:\pluralsight demo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
+c:\pluralsight demo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
+c:\pluralsight demo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
+c:\pluralsight demo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
+c:\pluralsight demo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+c:\pluralsight demo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+c:\pluralsight demo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
+c:\pluralsight demo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
+c:\pluralsight demo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
